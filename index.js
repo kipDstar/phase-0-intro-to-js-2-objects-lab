@@ -1,4 +1,4 @@
-// Write your solution in this file!
+// similar solution to phase-0-objects-lab
 const employee = {
     name: 'Sam',
     streetAddress: '11 Broadway'
